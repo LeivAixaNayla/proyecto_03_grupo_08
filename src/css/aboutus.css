@@ -62,14 +62,12 @@
     color: white;
 }
 
-/* Team-order: Orden de seguimiento */
 .team-order {
     margin: 5px 0;
     font-size: 1em;
     color: black;
 }
 
-/* Team-contact: Enlace GitHub */
 .team-contact {
     margin: 5px 0 0;
     color: #b15dec;
@@ -83,7 +81,6 @@
     cursor: pointer;
 }
 
-/* Mensaje de error */
 .error {
     color: #d00;
     font-style: normal;
